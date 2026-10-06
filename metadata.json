@@ -1,0 +1,8 @@
+{
+  "name": "Remix Life Copilot AI",
+  "description": "Your Acropolis Indore Campus OS — One AI. Every Problem. One Solution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
